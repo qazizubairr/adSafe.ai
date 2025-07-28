@@ -1,7 +1,7 @@
 # AdSafe.ai - AI-Powered Ad Compliance Checker
 
 A full-stack SaaS application that uses AI to check ad images and videos for Meta Ads Policy compliance.
-
+ 
 ## 🚀 Features
 
 - **User Authentication**: Email/password login and registration using Supabase Auth
